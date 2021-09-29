@@ -1,2 +1,2 @@
 # Abstract
-This is a colletion of abstract wallpapers.
+This is a collection of abstract wallpapers.
