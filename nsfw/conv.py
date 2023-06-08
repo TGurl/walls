@@ -54,7 +54,7 @@ class ImageConvert:
                 newpath = os.path.join(self.folder, newname)
 
                 # 1a. Print some information to the screen
-                counter = num - self.startat
+                counter = (num - self.startat) + 1
                 self.myprint(f'Converting {counter:05}/{total:05}: {image} -> {newname}', clear=True)
 
                 # 1b. Actually convert the image
